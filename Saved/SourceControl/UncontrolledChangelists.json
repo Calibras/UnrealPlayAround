@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mariu/Documents/Unreal Projects/PlayAround/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/PlayAround/Content/Level/PlayAround.umap",
+				"C:/Users/mariu/Documents/Unreal Projects/PlayAround/Content/MyContent/BluePrints/HitCube.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/PlayAround/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/PlayAround/Content/MyContent/Material/Floor.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/PlayAround/Content/MyContent/Material/Ligthning.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/PlayAround/Content/MyContent/BluePrints/Enemy.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/PlayAround/Content/MyContent/UI/HealtWidget.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/PlayAround/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
